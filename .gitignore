@@ -1,0 +1,10 @@
+# Windows 系统生成的垃圾文件
+Thumbs.db
+desktop.ini
+
+# Office 打开文档时产生的临时文件
+~$*
+
+# 通用临时文件
+*.tmp
+*.log
