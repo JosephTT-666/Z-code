@@ -8,3 +8,7 @@
 
 - 本地文件夹：`C:\Users\PC\Desktop\Z-code`
 - 工具：Git + GitHub CLI + ZCode
+
+## 更新记录
+
+- 2026-10-25：仓库创建，首次推送到 GitHub
